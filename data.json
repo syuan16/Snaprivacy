@@ -1,0 +1,602 @@
+[
+    {
+        "Product name": "nintendo-switch",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "sonos-one-sl",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "jabra-elite-85h",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "jabra-elite-75t",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "star-wars-the-force-coding-kit",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "sony-wh-1000xm3",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "symfonisk-wifi-bookshelf-speaker",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "apple-watch-5",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "bose-soundsport-wireless",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "ps4",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "bose-700-wireless-headphones",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "garmin-vivoactive-series",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-kindle",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "garmin-vivosmart-4",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "roomba-690-robot-vacuum",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "findster-duo-plus-pet-tracker",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "symfonisk-tablelamp-with-wifi-speaker",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "sony-wf-1000xm3",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-smart-plug",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "fitbit-inspire-hr",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "disney-frozen-2-coding-kit",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "ecobee-thermostat",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "star-wars-boost-droid-commander",
+        "Encryption": "Unknown",
+        "Security updates": "Yes",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "instant-pot-smart-wifi",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "whistle-go-pet-tracker",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "xbox-one",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "ace-2",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "bolt",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "fitbit-versa-2",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "garmin-index-smart-scale",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "anafi-drone",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "petnet-smartfeeder",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "apple-airpods",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "apple-ipad",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "tile-mate",
+        "Encryption": "Unknown",
+        "Security updates": "Unknown",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "samsung-galaxy-fit",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "fitbit-charge-3-tracker",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "nest-learning-thermostat",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "apple-tv",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "wemo-wifi-smart-dimmer",
+        "Encryption": "Unknown",
+        "Security updates": "Yes",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "roku-streaming-players",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "withings-body-scale",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "fitbit-aria-2-scale",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "sonos-one",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "wyzecam",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "apple-homepod",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "litter-robot-3-connect",
+        "Encryption": "No",
+        "Security updates": "Unknown",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "No"
+    },
+    {
+        "Product name": "google-chromecast",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "bose-quietcomfort-35-ii",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "motiv-ring",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-fire-tv",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-fire-hd-kids-edition",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "nest-hello-video-doorbell",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "nest-max",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "petsafe-smart-pet-feeder",
+        "Encryption": "Unknown",
+        "Security updates": "Unknown",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "No"
+    },
+    {
+        "Product name": "ourpets-smartscoop-intelligent-litter-box",
+        "Encryption": "Unknown",
+        "Security updates": "Unknown",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "No"
+    },
+    {
+        "Product name": "huawei-band-3-pro",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "vivofit-jr-2",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "petcube-bites-2",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-fire-hd-tablet",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "N/A",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "nest-cam-outdoor-security-camera",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "artie-3000-coding-robot",
+        "Encryption": "Unknown",
+        "Security updates": "Unknown",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "No"
+    },
+    {
+        "Product name": "wagz-serve-smart-feeder",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "petchatz-hd",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "furbo-dog-camera-with-dog-nanny",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "tello-drone",
+        "Encryption": "No",
+        "Security updates": "Yes",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Unknown"
+    },
+    {
+        "Product name": "ring-video-doorbell",
+        "Encryption": "Unknown",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "petzi-treat-cam",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "ring-security-cams",
+        "Encryption": "Unknown",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "link-akc-smart-collar",
+        "Encryption": "Unknown",
+        "Security updates": "Unknown",
+        "Strong password": "Unknown",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "nest-cam-indoor-security-camera",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "echo-series-smart-speakers",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "google-home",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "ring-indoor-cam",
+        "Encryption": "Unknown",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Unknown",
+        "Privacy policy": "Yes"
+    },
+    {
+        "Product name": "amazon-echo-show",
+        "Encryption": "Yes",
+        "Security updates": "Yes",
+        "Strong password": "Yes",
+        "Manages vulnerabilities": "Yes",
+        "Privacy policy": "Yes"
+    }
+]
